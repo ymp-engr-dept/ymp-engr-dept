@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yukimori Mugicha Engineering Department
 
-<!--
-**ymp-engr-dept/ymp-engr-dept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the official engineering account for the Yukimori Mugicha Project.
 
-Here are some ideas to get you started:
+We develop software, tools, and web services related to our project,
+and publish them as open-source or public-facing services when appropriate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Website
+- Under preparation
+
+## Technologies
+- Web development
+- Cloudflare Pages & Workers
+- JavaScript / TypeScript
+- Open-source tooling
+
+## Contact
+- Via the official website
